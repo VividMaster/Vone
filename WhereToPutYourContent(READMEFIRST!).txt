@@ -15,3 +15,8 @@ IF YOU ARE NOT SURE - Ask first. pls. we need to avoid our previous problems whi
 Cheers guys.
 
 ANT.
+
+
+REMEMBER - DO not create your own unreal project to create your media. There is only ONE project, and that is the Vone project in this repo -
+there is no way to import another project into another project - so load this project, add your work, set it up,
+then commit/push the changes for everyone else.
